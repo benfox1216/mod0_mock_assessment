@@ -1,0 +1,14 @@
+Class: Child
+
+Attributes:
+age (integer)
+weight (float)
+shoe_size (float)
+grade (integer)
+hair_color (string)
+
+Methods:
+on_birthday (adds 1 to the age attribute)
+change_weight (changes the weight attribute)
+change_shoe_size (changes the shoe_size attribute)
+last_day_of_school (adds 1 to the grade attribute)
