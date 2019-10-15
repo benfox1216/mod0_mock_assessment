@@ -1,0 +1,27 @@
+Instance of class Child: Sally
+Attributes:
+age: 12
+weight (lbs): 95
+shoe_size: 8
+grade: 7
+hair_color: Brunette
+
+Methods:
+on_birthday: 13
+change_weight (lbs): 105
+change_shoe_size: 9
+last_day_of_school: 8
+
+Instance of class Child: Brian
+Attributes:
+age: 9
+weight (lbs): 63
+shoe_size: 5
+grade: 4
+hair_color: Red
+
+Methods:
+on_birthday: 10
+change_weight (lbs): 70
+change_shoe_size: 6
+last_day_of_school: 5
