@@ -4,7 +4,7 @@ age: 12
 weight (lbs): 95
 shoe_size: 8
 grade: 7
-hair_color: Brunette
+hair_color: "Brunette"
 
 Methods:
 on_birthday: 13
@@ -18,7 +18,7 @@ age: 9
 weight (lbs): 63
 shoe_size: 5
 grade: 4
-hair_color: Red
+hair_color: "Red"
 
 Methods:
 on_birthday: 10
